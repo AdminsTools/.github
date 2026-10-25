@@ -1,6 +1,4 @@
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@main/assets/logo.svg" width="96" alt="AdminsTools"></p>
-
-<h1 align="center">AdminsTools</h1>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@main/assets/wordmark-dark.png"><img src="https://cdn.jsdelivr.net/gh/AdminsTools/AdminsTools@main/assets/wordmark-light.png" width="420" alt="AdminsTools"></picture></p>
 
 <p align="center"><b>Türkçe</b> &nbsp;·&nbsp; <a href="https://github.com/AdminsTools/AdminsTools/blob/main/docs/en/README.md">English</a> &nbsp;·&nbsp; <a href="https://github.com/AdminsTools/AdminsTools/blob/main/docs/de/README.md">Deutsch</a> &nbsp;·&nbsp; <a href="https://github.com/AdminsTools/AdminsTools/blob/main/docs/ru/README.md">Русский</a> &nbsp;·&nbsp; <a href="https://github.com/AdminsTools/AdminsTools/blob/main/docs/zh/README.md">中文</a></p>
 
